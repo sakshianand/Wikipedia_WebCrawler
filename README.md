@@ -30,6 +30,8 @@ This script will work till the following condition has occured:
 
 ### References
 
+---
+
 * [Udacity Tutorial](https://classroom.udacity.com/courses/ud1110)
 * [Beautiful Soup v4-Python Library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Requests API](http://docs.python-requests.org/en/master/)
