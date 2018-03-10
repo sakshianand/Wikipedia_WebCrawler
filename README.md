@@ -3,9 +3,9 @@ A python script to crawl through various wikipedia pages,searches and extract th
 
 This script will work till the following condition has occured:
 
-1.A target page has been reached (Which in this script is [https://en.wikipedia.org/wiki/Philosophy](this))
-2.The search has gone on suspiciously long(Default maximum count has been initialized to *25*)
-3.We have arrived at an article we have already seen
+1. A target page has been reached Which in this script is [this](https://en.wikipedia.org/wiki/Philosophy)
+2. The search has gone on suspiciously long(Default maximum count has been initialized to *25*)
+3. We have arrived at an article we have already seen
 
 ---
 
@@ -30,9 +30,9 @@ This script will work till the following condition has occured:
 
 ### References
 
-*[https://classroom.udacity.com/courses/ud1110](Udacity tutorial)
-*[https://www.crummy.com/software/BeautifulSoup/bs4/doc/](Beautiful Soup v4 - Python library)
-*[http://docs.python-requests.org/en/master/](Requests API)
+* [https://classroom.udacity.com/courses/ud1110](Udacity tutorial)
+* [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](Beautiful Soup v4 - Python library)
+* [http://docs.python-requests.org/en/master/](Requests API)
 
 ---
 
