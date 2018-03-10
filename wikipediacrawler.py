@@ -14,7 +14,7 @@ def find_first_link(url):
     soup = bs4.BeautifulSoup(html, "html.parser")
 
     # This div contains the article's body
-    # (June 2017 Note: Body nested in two div tags)
+    # (March 2018 Note: Body nested in two div tags)
     content_div = soup.find(id="mw-content-text").find(class_="mw-parser-output")
 
     # stores the first link found in the article, if the article contains no
