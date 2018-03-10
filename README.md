@@ -13,12 +13,12 @@ This script will work till the following condition has occured:
 
 ---
 * Python 3.6.0
-	* [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](Beautiful Soup Library v4)
+	* [Beautiful Soup Library v4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### Installation Steps
 
 ---
-1. Python 3.6.0 need to be installed [https://www.python.org/downloads/](Download here)
+1. Python 3.6.0 need to be installed [Download Here](https://www.python.org/downloads/)
 2. Install the following libraries by running the below commands on command prompt:
    * ```pip3 install requests```
    * ```pip3 install bs4```
@@ -30,9 +30,9 @@ This script will work till the following condition has occured:
 
 ### References
 
-* [https://classroom.udacity.com/courses/ud1110](Udacity tutorial)
-* [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](Beautiful Soup v4 - Python library)
-* [http://docs.python-requests.org/en/master/](Requests API)
+* [Udacity Tutorial](https://classroom.udacity.com/courses/ud1110)
+* [Beautiful Soup v4-Python Library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Requests API](http://docs.python-requests.org/en/master/)
 
 ---
 
